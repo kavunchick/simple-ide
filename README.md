@@ -8,3 +8,4 @@
 
 ## How to start
  Run `./gradlew run`
+ Also, there is a video showcase: `taks.mp4`
